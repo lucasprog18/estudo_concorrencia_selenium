@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+
+# Dados gerados pelo programa
+*.xlsx
+*.csv
+*.json
+*.log
+
+# Pasta de dados locais
+data/
+
+# Cache do Python
+__pycache__/
+
+# Arquivos temporários do Vs code
+.vscode/
